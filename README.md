@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQHkAbEhP05SVw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693288758516?e=2147483647&v=beta&t=SIahctd8YUV9nYYGTbwELmg2gSs0iONBmT4_grB_VCg)]
 <h1 align="center">Hi 👋, I'm Shilpa Maity</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
+<img align="center" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa-maity&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa-maity" /> </p>
 
