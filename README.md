@@ -4,9 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Shilpa Maity</h1>
 <h3 align="center">A passionate full stack MERN developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
+<img align="center" alt="Coding" width="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
 
 # 💫 About Me:
+
 🌟 MERN Stack Developer (MongoDB, Express, React, Node)<br>💼 Currently seeking **on-site** opportunities in the IT industry<br>🎯 Career goal: To become a top-performing developer and land a high-impact role at a top tech company<br>✨ Building a strong profile through **projects, learning, and consistency**<br>📫 How to reach me shilpamaity272@gmail.com or LinkedIn<br>💬 Ask me about React, JavaScript, MongoDB, or career advice!<br>⚡ Fun fact I think i am funny
 
 
