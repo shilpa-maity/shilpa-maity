@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shilpa Maity</h1>
 <h3 align="center">A passionate full stack MERN developer from India</h3>
-<img align="center" alt="Coding" width="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
+<img align="center" alt="Coding" height="400" width="100%" src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?ga=GA1.1.1762293383.1728668272&semt=ais_hybrid">
 
 # 💫 About Me:
 
